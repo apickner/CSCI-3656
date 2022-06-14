@@ -1,0 +1,158 @@
+
+MATRIX REPORT
+
+
+Andrew Pickner
+
+
+I worked alone, & all sources I used will be cited at the bottom of this report.
+
+--------------------------------------------------------------------------------- 
+	
+	------------------------------------------------
+
+		Matrix #1:
+
+	------------------------------------------------
+
+	size                           4 rows, 4 cols
+
+	number nonzeros                10
+
+	is symmetric?                  False
+
+	is diagonal?                   False
+
+	is orthogonal?                 False
+
+	rank                           3
+
+	smallest sing val              0.0
+
+	largest sing val               0.8762
+
+	condition number               1.9965054741991724e+16
+
+	solve systems okay?            True
+
+		
+	------------------------------------------------
+
+		Matrix #2:
+
+	------------------------------------------------
+
+	size                           30 rows, 30 cols
+
+	number nonzeros                900
+
+	is symmetric?                  True
+
+	is diagonal?                   False
+
+	is orthogonal?                 False
+
+	rank                           30
+
+	smallest sing val              -5.043681919480303
+
+	largest sing val               12.633181597604256
+
+	condition number               206.6726633596981
+
+	solve systems okay?            True
+
+		
+	------------------------------------------------
+
+		Matrix #3:
+
+	------------------------------------------------
+
+	size                           400 rows, 400 cols
+
+	number nonzeros                800
+
+	is symmetric?                  False
+
+	is diagonal?                   False
+
+	is orthogonal?                 False
+
+	rank                           399
+
+	smallest sing val              -1.0
+
+	largest sing val               1.0
+
+	condition number               1.2928501687728282e+16
+
+	solve systems okay?            False
+
+		
+	------------------------------------------------
+
+		Matrix #4:
+
+	------------------------------------------------
+
+	size                           50 rows, 50 cols
+
+	number nonzeros                2500
+
+	is symmetric?                  True
+
+	is diagonal?                   False
+
+	is orthogonal?                 True
+
+	rank                           50
+
+	smallest sing val              -0.41156824931968294
+
+	largest sing val               0.9999995198007274
+
+	condition number               1.0000000000000009
+
+	solve systems okay?            True
+
+		
+	------------------------------------------------
+
+		Matrix #5:
+
+	------------------------------------------------
+
+	size                           625 rows, 625 cols
+
+	number nonzeros                3025
+
+	is symmetric?                  True
+
+	is diagonal?                   False
+
+	is orthogonal?                 False
+
+	rank                           625
+
+	smallest sing val              -1.0
+
+	largest sing val               4.0
+
+	condition number               273.3060573767048
+
+	solve systems okay?            True
+
+		
+---------------------------------------------------------------------------------
+SOURCES USED:
+
+
+numpy docs were incredibly valuable for obvious reasons. Practically used numpy for the entire assignment.
+
+Khan academy has an incredible library, and I was able to make use of some of the lin alg videos.
+
+Sauer's textbook
+
+--------------------------------------------------------------------------------- 
+	
